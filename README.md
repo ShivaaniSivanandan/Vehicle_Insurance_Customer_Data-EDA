@@ -16,6 +16,7 @@ Remove white spaces
 Case correction(lower or upper, any one)
 Convert nominal data (categorical) into dummies
 Drop Duplicates (duplicated rows)
+
 3. Create a Master table for future use.
 
 4. Extracting following information from the master table:
